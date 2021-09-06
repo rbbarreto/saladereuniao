@@ -10,3 +10,7 @@
 <li>Buscar uma sala de ID  GET  - /api/v1/rooms/{Id} </li>
 <li>Criar salar de Reunião POST - /api/v1/rooms </li>
 <li>Excluir um sala pelo Id DELETE - /api/v1/rooms/{id} </li>   
+
+### Curso realizado na plataforma Digital innovation one.
+
+<li>* [Digital Innovation one](https://web.digitalinnovation.on)</li> 
