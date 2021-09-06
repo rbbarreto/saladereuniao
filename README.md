@@ -4,7 +4,7 @@
 <li> H2 Database </li>
 <li> Java 8 </li>
 
-#EndPoins criandos na API
+# EndPoins criandos na API
 <li>Criar salar de Reunião POST - /api/v1/rooms </li>
 <li>Listsa todos as salas  GET - /api/v1/rooms </li>
 <li>Buscar uma sala de ID  GET  - /api/v1/rooms/{Id} </li>
