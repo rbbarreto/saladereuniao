@@ -1,5 +1,5 @@
-# Gerenciandor de Salas de Reunições
-<li> Spring Web </li>
+# Gerenciandor de Salas de Reuniões
+<li> SpringBoot </li>
 <li> Spring Data JPA </li>
 <li> H2 Database </li>
 <li> Java 8 </li>
@@ -11,10 +11,10 @@
 <li>Criar salar de Reunião POST - /api/v1/rooms </li>
 <li>Excluir um sala pelo Id DELETE - /api/v1/rooms/{id} </li>   
 
-### Curso realizado na plataforma Digital innovation one.
+# Ferramenta usada para testa os EndPoins
+<li> Postman </li>  
 
-# Segue o link para o Acesso
+# Curso realizado na plataforma Digital innovation one, Segue o link para o Acesso
 <li>[Digital Innovation one](https://web.digitalinnovation.on)</li> 
 
-### Agradecimento a professora 
 
