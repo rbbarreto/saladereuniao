@@ -13,4 +13,8 @@
 
 ### Curso realizado na plataforma Digital innovation one.
 
-<li>* [Digital Innovation one](https://web.digitalinnovation.on)</li> 
+# Segue o link para o Acesso
+<li>[Digital Innovation one](https://web.digitalinnovation.on)</li> 
+
+### Agradecimento a professora 
+
